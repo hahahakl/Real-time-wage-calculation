@@ -34,3 +34,7 @@
  *   `本月 X 个工作日`：根据日历自动计算当月应出勤天数。
  *   `每秒进账 ¥X.XXXX`：根据你的月薪和工时计算出的“摸鱼单价”。
 
+<img width="333" height="207" alt="image" src="https://github.com/user-attachments/assets/6811bf64-877f-4ded-a480-f57e8223e6fe" />
+<img width="333" height="207" alt="image" src="https://github.com/user-attachments/assets/e12f754c-cfc5-4781-aa9a-15ba89d46a87" />
+<img width="320" height="380" alt="image" src="https://github.com/user-attachments/assets/57b7decd-7883-4ad1-b9a4-1f3b950e21cb" />
+
